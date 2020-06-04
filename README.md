@@ -1,2 +1,2 @@
 # EspUdpBlockCrypt
-Udp multicast encryption using block chain inspired algorithm
+Udp broadcast encryption using block chain inspired algorithm
